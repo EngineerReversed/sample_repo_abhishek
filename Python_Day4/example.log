@@ -1,0 +1,5 @@
+WARNING:root:Warning out!
+INFO:root:I told you so
+DEBUG:root:Message to log file
+INFO:root:Start reading records
+DEBUG:root:Records: {'john': 55, 'tom': 66}
