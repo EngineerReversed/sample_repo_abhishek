@@ -1,5 +1,10 @@
 from string import ascii_uppercase
-k=1
-for i in range(1, 6):
-    k=k+i
-    print(" ".join(ascii_uppercase[i:k]))
+k=0
+for i in range(0, 6):
+    for j in range(i+1):
+      if j==i:
+          print str(ascii_uppercase[k])
+          k=k+1
+      else:
+          print str(ascii_uppercase[k]),
+          k=k+1
