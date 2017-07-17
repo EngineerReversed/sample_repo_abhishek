@@ -1,0 +1,9 @@
+INFO:root:Start reading records
+DEBUG:root:Records: {'tom': 66, 'john': 55}
+INFO:root:Start reading records
+DEBUG:root:Records: {'tom': 66, 'john': 55}
+INFO:root:Start reading records
+DEBUG:root:Records: {'tom': 66, 'john': 55}
+INFO:root:Start reading records
+DEBUG:root:Records: {'tom': 66, 'john': 55}
+WARNING:root:is when this event was logged.
